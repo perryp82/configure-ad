@@ -123,13 +123,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 4. Restart `DC-1` and log in as `mydomain.com\labuser`.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/xlMwDNZ.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/TRXeQJq.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
-
 
 #### **Create a Domain Admin User**
 1. Open Active Directory Users and Computers (ADUC).
@@ -143,19 +142,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 6. Log out and log back in as `mydomain.com\jane_admin`.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/Jq4eZPI.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/fjfBu5v.png" height="80%" width="80%" alt="Lab 5"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/OTBl5tT.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 #### **Join Client-1 to the Domain**
-1. Log in as the local admin (`labuser`) and join `Client-1` to the domain.
-2. Verify `Client-1` appears in ADUC under `_CLIENTS`.
+1. Log in as the local admin and join `Client-1` to the domain.
+2. Create a new OU titled '_CLIENTS' & add `Client-1` in ADUC to `_CLIENTS`.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/2xHyKvs.png" height="80%" width="80%" alt="Lab 5"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/kcyfdIP.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 ---
