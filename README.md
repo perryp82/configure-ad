@@ -175,7 +175,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 3. Allow "domain users" access to Remote Desktop.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/hK9sB8R.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 #### **Create Users with PowerShell**
@@ -186,11 +186,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 5. Attempt to log into `Client-1` with one of the created accounts.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/RAgS5GM.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/Qe1OaOn.png" height="80%" width="80%" alt="Lab 5"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/iXBrDci.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 ---
