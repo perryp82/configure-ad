@@ -210,15 +210,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 5. Unlock the account in ADUC and reset the password.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/4xZVZxJ.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/KW95ZOG.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/uWoFU61.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 #### **Enable and Disable Accounts**
@@ -227,24 +227,24 @@ This tutorial outlines the implementation of on-premises Active Directory within
 3. Re-enable the account and log in successfully.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/CUUcX8S.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/TkMtlW1.png" height="80%" width="80%" alt="Lab 5"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/KWKL3VZ.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 #### **Observing Logs**
 1. Review authentication and account-related logs in Event Viewer:
-   - Logs on `DC-1` for domain-level events.
-   - Logs on `Client-1` for local events.
+   - Log on `DC-1` for domain-level events (shown below).
+   - Log on `Client-1` for local events.
 
 <p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/n2JcKKS.png" height="80%" width="80%" alt="Lab 5"/>
+<img src="https://i.imgur.com/YwM0mgQ.png" height="80%" width="80%" alt="Lab 5"/>
 </p>
 
 ---
